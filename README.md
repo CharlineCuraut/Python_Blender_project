@@ -12,6 +12,6 @@ You can just open the flame_boy.blend file with Blender.
 
 Or you can open Blender and run the flame_boy.py file in the "scripting" part.
 
-## More informations :
+## More information :
 
-You can see the final result of my work [here](project_rendering.mp4). More informations about the project can be found in the [report](IG3D_REPORT) I did for my teachers.
+You can see the final result of my work [here](project_rendering.mp4). More information about the project can be found in the [report](IG3D_REPORT) I did.
